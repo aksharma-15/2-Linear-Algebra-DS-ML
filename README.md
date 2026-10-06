@@ -1965,7 +1965,7 @@ This is an example of converting a mathematical similarity matrix into a useful 
 
 # 38. Terminology Guide
 
-The following terminology makes the concepts more precise when communicating them professionally.
+The following terminology makes the concepts more precise when communicating them professionally. 
 
 | Informal wording                  | More precise terminology                               |
 | --------------------------------- | ------------------------------------------------------ |
